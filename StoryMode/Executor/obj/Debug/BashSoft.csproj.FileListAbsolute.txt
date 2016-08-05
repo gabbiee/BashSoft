@@ -1,0 +1,6 @@
+I:\SoftUni\OOP Advanced\Lab\Lab\StoryMode\StoryMode\Executor\bin\Debug\Executor.exe.config
+I:\SoftUni\OOP Advanced\Lab\Lab\StoryMode\StoryMode\Executor\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+I:\SoftUni\OOP Advanced\Lab\Lab\StoryMode\StoryMode\Executor\bin\Debug\Executor.exe
+I:\SoftUni\OOP Advanced\Lab\Lab\StoryMode\StoryMode\Executor\bin\Debug\Executor.pdb
+I:\SoftUni\OOP Advanced\Lab\Lab\StoryMode\StoryMode\Executor\obj\Debug\Executor.exe
+I:\SoftUni\OOP Advanced\Lab\Lab\StoryMode\StoryMode\Executor\obj\Debug\Executor.pdb

@@ -1,0 +1,8 @@
+I:\SoftUni\OOP Advanced\Lab\Lab\StoryMode\StoryMode\BashSoftTesting\bin\Debug\BashSoftTesting.dll
+I:\SoftUni\OOP Advanced\Lab\Lab\StoryMode\StoryMode\BashSoftTesting\bin\Debug\BashSoftTesting.pdb
+I:\SoftUni\OOP Advanced\Lab\Lab\StoryMode\StoryMode\BashSoftTesting\bin\Debug\Executor.exe
+I:\SoftUni\OOP Advanced\Lab\Lab\StoryMode\StoryMode\BashSoftTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+I:\SoftUni\OOP Advanced\Lab\Lab\StoryMode\StoryMode\BashSoftTesting\bin\Debug\Executor.pdb
+I:\SoftUni\OOP Advanced\Lab\Lab\StoryMode\StoryMode\BashSoftTesting\obj\Debug\BashSoftTesting.csprojResolveAssemblyReference.cache
+I:\SoftUni\OOP Advanced\Lab\Lab\StoryMode\StoryMode\BashSoftTesting\obj\Debug\BashSoftTesting.dll
+I:\SoftUni\OOP Advanced\Lab\Lab\StoryMode\StoryMode\BashSoftTesting\obj\Debug\BashSoftTesting.pdb
